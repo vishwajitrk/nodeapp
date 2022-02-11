@@ -10,4 +10,4 @@ npm install
 run project - 
 npm start
 
-https://localhost:4000/
+http://localhost:4000/
